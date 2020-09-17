@@ -1,0 +1,5 @@
+soc:
+  feed_url: http://example.org/feed
+wif:
+  directory_path: /path/to/dir
+  file_name: foo
